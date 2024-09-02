@@ -22,14 +22,14 @@ A computação na nuvem permite que empresas e desenvolvedores utilizem recursos
 - **Economia**: Redução de custos com infraestrutura e manutenção.
 - **Inovação**: Acesso a tecnologias avançadas como IA e Machine Learning.
 
-##Capex (Despesas de Capital)
+## Capex (Despesas de Capital)
 Definição: refere-se aos investimentos em infraestrutura física e hardware que uma empresa precisa fazer para hospedar seus próprios serviços de TI. Isso inclui a compra de servidores, equipamentos de rede, e outros ativos de longo prazo que são necessários para manter um data center privado.
 ### Exemplos de CapEx no Azure:
 - Compra de servidores físicos para hospedar aplicações.
 - Aquisição de equipamentos de rede e armazenamento.
 - Construção ou expansão de data centers privados.
 
-##Opex (Despesas Operacionais)
+## Opex (Despesas Operacionais)
 Definição: refere-se aos custos contínuos associados ao uso dos serviços como na Azure. Em vez de investir em infraestrutura física, as empresas pagam pelo uso dos recursos de nuvem conforme a demanda, transformando grandes despesas de capital em despesas operacionais mensais ou anuais.
 ### Exemplos de OpEx no Azure:
 - Pagamento mensal pelo uso de máquinas virtuais (VMs).
