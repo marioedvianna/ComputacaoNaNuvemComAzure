@@ -11,8 +11,3 @@ O Azure organiza seus serviços em categorias para facilitar a busca. Algumas da
 * **IoT:** IoT Hub, Device Provisioning Service, etc.
 * **Integration:** Logic Apps, API Management, etc.
 * **Security:** Azure Security Center, Key Vault, etc.
-
-**Para encontrar um serviço:**
-1. **Use a busca no Portal do Azure.**
-2. **Explore as categorias de serviços.**
-3. **Consulte a documentação oficial.**
