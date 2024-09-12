@@ -7,8 +7,7 @@
 ## 2. Criar um Grupo de Recursos (Se necessário)
 1. No menu à esquerda, clique em **Grupos de Recursos**.
 2. Clique em **Criar**.
-3. Insira um nome para o grupo de recursos(Caso não tenha criado siga os seguintes passos:
-    ) e selecione uma região.
+3. Insira um nome para o grupo de recursos e selecione uma região.
 4. Clique em **Revisar + Criar** e depois em **Criar**.
 
 ## 3. Criar um Servidor de Banco de Dados
